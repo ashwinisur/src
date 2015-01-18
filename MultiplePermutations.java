@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HW03_AshwiniSuresh_6 {
+public class MultiplePermutations {
 	
 	public static void main(String[] args)
 	{
