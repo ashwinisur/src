@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HW03_AshwiniSuresh_4 {
+public class DecimaltoBinary {
 	public static void main(String[] args) {
 
 	    double input;
