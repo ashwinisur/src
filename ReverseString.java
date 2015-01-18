@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HW03_AshwiniSuresh_2 {
+public class ReverseString {
 
 	public static String s = "";
 	public static void main(String[] args)
