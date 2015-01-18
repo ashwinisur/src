@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HW03_AshwiniSuresh_5 {
+public class BinarytoDecimal {
 	
 	public static void main(String[] args)
 	{
