@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HW03_AshwiniSuresh_1 {
+public class SumSeries {
 	public static double sum = 0;
 	
 	public static void main(String[] args)
